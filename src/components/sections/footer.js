@@ -9,7 +9,6 @@ import theme from '../../theme';
 
 const FullWidthContainer = styled.div`
     background-color: ${theme.colors.green};
-    margin: ${theme.spacing['5']};
 `;
 
 const FooterImgWrapper = styled.div`
