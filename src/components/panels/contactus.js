@@ -23,14 +23,17 @@ const H2 = styled.h2`
 `;
 
 const Div = styled.div`
+    font-size: 1.2rem;
     margin-bottom: ${theme.spacing['2']};
 `;
 
 const ContactUsPanel = () => (
     <Container>
         <H2>Contact us</H2>
-        <Div><span>email: </span><span>happypopsplay@gmail.com</span></Div>
-        <Div><span>telephone: </span><span>07811115860</span></Div>
+        <Div><span>email: </span>
+        <br /><span>happypopsplay@gmail.com</span></Div>
+        <Div><span>telephone: </span>
+        <br /><span>07811115860</span></Div>
     </Container>
 );
 
