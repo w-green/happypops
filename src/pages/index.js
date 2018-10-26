@@ -51,9 +51,9 @@ const IndexPage = () => (
 
       <PartiesSection />
 
-      <AcceptanceOfRiskSection />
-
       <RulesSection />
+
+      <AcceptanceOfRiskSection />
 
       <PanelsContainerMap>
         <MapPanel />
