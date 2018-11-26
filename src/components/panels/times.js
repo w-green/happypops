@@ -33,9 +33,9 @@ const TimesPanel = () => (
             <tbody>
                 <tr><th>Day</th><th>Time</th></tr>
 
-                <tr><td>Tuesday</td><td>1.30 - 5.30pm</td></tr>
-                <tr><td>Wednesday</td><td>1.30 - 5.30pm</td></tr>
-                <tr><td>Thursday</td><td>2 - 5.30pm</td></tr>
+                <tr><td>Tuesday</td><td>1.30 - 5pm</td></tr>
+                <tr><td>Wednesday</td><td>1.30 - 5pm</td></tr>
+                <tr><td>Thursday</td><td>2 - 5pm</td></tr>
             </tbody>
         </Table>
     </Container>

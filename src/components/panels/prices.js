@@ -39,16 +39,12 @@ const PricesPanel = () => (
                 <tr><td>Babies</td><td>&pound;2.50</td></tr>
                 <tr><td>Chidren</td><td>&pound;5</td></tr>
                 <tr><td>Additional sibling</td><td>&pound;2.50</td></tr>
+                <tr><td>Twins go as one</td><td></td></tr>
                 <tr><td>Birthday Hire</td><td> please contact us</td></tr>
             </tbody>
         </Table>
-        {/* <PriceItem>Babies 0-1 &pound;2.50</PriceItem>
-        <PriceItem>Chidren 1-6 &pound;5</PriceItem>
-        <PriceItem>Additional sibling &pound;2.5</PriceItem>
-        <PriceItem>Birthday Hire &pound;150 (2 Hours: 1 hour play and 1 hour lunch, cake etc. You are welcome to bring your own food and drink)</PriceItem> */}
 
-        <p>During quiet times there is no time limit.</p>
-        <p>During busy periods you will be limited to 1.5 hours of play.</p>
+        <p>During busy periods there will be a one out, one in policy.</p>
     </Container>
 );
 
